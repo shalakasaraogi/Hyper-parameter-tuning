@@ -118,6 +118,8 @@ The sample code for Hyper-parameter tuning of ML models (both for regression & c
 
 ## Reference 
 
+The main aim was to understand the work done by authors, L. Yang and A. Shami in their research paper.
+
 ```
 Research Paper Title - On hyperparameter optimization of machine learning algorithms: Theory and practice
 Authors- L. Yang and A. Shami
